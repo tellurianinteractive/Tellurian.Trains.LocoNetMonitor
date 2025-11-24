@@ -14,7 +14,7 @@ These two functions uses two different IP ports.
 ## Additional Services
 The application bundle also contain a service for maintaning a *slot table*.
 
-#### Slot Table Updater
+### Slot Table Updater
 The *slot table updater* service monitors the LocoNet message flow for things related to loco control
 and updates the corresponding slot accordingly.
 
@@ -35,7 +35,7 @@ Any tool that can produce CSV can be used.
 However, the application design permits implementing services that can get the white list from any source,
 also over the Internet.
 
-##### Background
+#### Background
 At module meetings, managing address reservation for the participants locos is essential 
 to avoid use of same loco address twice. 
 When driving a loco, it is important that no other loco is accidential running aswell.

@@ -4,7 +4,7 @@
 		<TargetFramework>net10.0</TargetFramework>
 		<AssemblyName>Tellurian.Trains.LocoNetMonitor</AssemblyName>
 		<RootNamespace>Tellurian.Trains.LocoNetMonitor</RootNamespace>
-		<Version>1.2.0</Version>
+		<Version>1.3.0</Version>
 		<LangVersion>latest</LangVersion>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
